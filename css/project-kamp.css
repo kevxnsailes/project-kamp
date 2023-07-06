@@ -1663,6 +1663,15 @@ a {
   font-size: 48px;
 }
 
+.seasonheader a {
+  color: #8ab580;
+  text-decoration: none;
+}
+
+.seasonheader a:hover {
+  color: #5c8356;
+}
+
 .slide {
   overflow: visible;
 }
@@ -2147,7 +2156,7 @@ a {
 .div-block-17 {
   justify-content: center;
   align-items: flex-start;
-  margin-bottom: 900px;
+  margin-bottom: 225px;
   display: flex;
 }
 
